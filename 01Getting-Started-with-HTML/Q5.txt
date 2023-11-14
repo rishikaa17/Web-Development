@@ -1,0 +1,5 @@
+5. What is the DOCTYPE Declaration in HTML ?
+Answer :- 
+In HTML, DOCTYPE used to Declare HTML 5. All HTML documents must start with a <!DOCTYPE> Declaration. It is not a HTMLtags. It is an information to the  browser we are using HTML 5. 
+example :- 
+<!DOCTYPE html>

@@ -1,0 +1,15 @@
+4. Write a short note on Tag and element with an example ?
+Answer :-
+
+Tag :- An HTML tag is use to indicaate the begining and ending of an html element in an HTML document. HTML tags are used to define the structure and content of a web page. HTMLtags are many types
+Paired Tags, Unpaired Tags, Self Closing Tags etc . 
+
+example : <h1></h1> , <img src="">, <p></p>, <br/> , <hr/>
+
+HTML Element :- HTML elements are the basic building blocks of a webpage. The HTML element is everything from the starting tag to the end tags and also content between the starting and ending tags. 
+<opening-tag> Content </Closing-tag>
+
+example :- <h1>Heading 1 </h1>
+
+
+
